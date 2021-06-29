@@ -13,4 +13,4 @@ https://mslocham.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Mehtab Locham.
 
-### &copy 2019 Run Buddy, Inc
+### &copy2019 Run Buddy, Inc
